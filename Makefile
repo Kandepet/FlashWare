@@ -1,4 +1,4 @@
-PROGRAM = openlit
+PROGRAM = openlight
 MCU = attiny13
 CC = avr-gcc
 OBJCOPY = avr-objcopy
